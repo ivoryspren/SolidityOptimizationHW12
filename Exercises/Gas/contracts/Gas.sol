@@ -318,3 +318,4 @@ contract GasContract is Ownable, Constants {
         emit WhiteListTransfer(_recipient);
     }
 }
+
